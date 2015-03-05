@@ -56,3 +56,5 @@ C:\Users\Rebecca\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\obj\Deb
 C:\Users\Rebecca\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.Initial.resources
 C:\Users\Rebecca\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csproj.GenerateResource.Cache
 C:\Users\Rebecca\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.Rating.resources
+C:\Users\Rebecca\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.DataAnnotations.resources
+C:\Users\Rebecca\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.Razzie.resources
