@@ -52,3 +52,7 @@ c:\users\rebecca\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\bin\Mic
 c:\users\rebecca\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 c:\users\rebecca\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.dll
 c:\users\rebecca\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.pdb
+C:\Users\Rebecca\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csprojResolveAssemblyReference.cache
+C:\Users\Rebecca\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.Initial.resources
+C:\Users\Rebecca\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csproj.GenerateResource.Cache
+C:\Users\Rebecca\documents\visual studio 2013\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.Rating.resources
